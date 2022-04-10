@@ -1,0 +1,190 @@
+header {
+    /* background-color: rgb(202, 212, 221); */
+    font-size: 50px;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: 2px 2px 0 red, 4px 4px 0 blue, 6px 6px 0 yellow;
+    display: block;
+}
+
+.br {
+    font-size: 20px;
+}
+
+.right {
+    /* background-color: rgb(190, 184, 175); */
+    padding: 4px;
+    letter-spacing: 4px;
+
+}
+
+.left {
+    word-spacing: 25px;
+    font-size: 20px;
+    padding-left: 970px;
+
+}
+
+.left1 {
+    /* background-color: rgb(190, 184, 175); */
+    padding: 4px;
+    color: black;
+    text-decoration: none;
+    width: fit-content;
+}
+
+.br1 {
+    font-size: 40px;
+    background-color: rgb(42 39 39);
+    padding: 10px 20px;
+
+}
+
+.bg {
+    background-image: url(../img/architect.jpg);
+    height: 614px;
+    width: 820px;
+    padding-left: 590px;
+    padding-top: 400px;
+    word-spacing: 10px;
+    color: white;
+    font-size: 30px;
+    background-repeat: no-repeat;
+}
+
+
+.one {
+    background-image: url(../img/house5.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 200px;
+
+}
+
+.one1 {
+    background-color: black;
+    color: white;
+    width: fit-content;
+    padding: 5px;
+
+}
+
+.two {
+    background-image: url(../img/house2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 200px;
+
+
+}
+
+.two1 {
+    background-color: black;
+    color: white;
+    width: fit-content;
+    margin-top: 12px;
+    padding: 5px;
+}
+
+.three {
+    background-image: url(../img/house3.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 200px;
+
+
+}
+
+.three1 {
+    background-color: black;
+    color: white;
+    width: fit-content;
+    margin-top: 12px;
+    padding: 5px;
+}
+
+.for {
+    background-image: url(../img/house4.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 200px;
+
+
+}
+
+.for1 {
+    background-color: black;
+    color: white;
+    width: fit-content;
+    margin-top: 12px;
+    padding: 5px;
+}
+
+.one,
+.two,
+.three,
+.for {
+    margin: 5px;
+}
+
+
+.one1,
+.two1,
+.three1,
+.for1 {
+    display: inline;
+}
+
+
+
+
+.par {
+    background-color: rgb(236, 233, 228);
+    padding: 4px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 55px;
+    padding-top: 27px;
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 23px;
+    letter-spacing: 2px;
+    background-color: white;
+    width: fit-content;
+    margin: 10px;
+
+}
+
+h4 {
+    background-color: white;
+    width: fit-content;
+    margin: 10px;
+    color: rgb(135, 135, 167);
+
+}
+
+.p {
+    background-color: white;
+    width: 350px;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.button {
+    margin: 10px;
+    width: 250px;
+    padding: 7px 0;
+    border: solid 2px rgb(255, 254, 252);
+}
